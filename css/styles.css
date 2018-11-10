@@ -88,7 +88,7 @@ p {
 /* 2. Preloader
 --------------------------------------------*/
 #page-preloader {
-  background-color: #7d3c93;
+  background-color: #d7df21;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -187,11 +187,11 @@ p {
   background-color: #7c8898;
 }
 .btn.btn-success {
-  background-color: #7d3c93;
+  background-color: #d7df21;
   color: #ffffff;
 }
 .btn.btn-success:hover {
-  background-color: #9d62af;
+  background-color: #d7df21;
 }
 .btn.btn-lg {
   font-size: 20px;
@@ -228,11 +228,11 @@ p {
   opacity: 1;
 }
 .btn.btn-color1 {
-  background-color: #7d3c93;
+  background-color: #d7df21;
   color: #ffffff;
 }
 .btn.btn-color1:hover {
-  background-color: #af70c5;
+  background-color: #d7df21;
 }
 /* 6. Scroll Up Btn
 --------------------------------------------*/
